@@ -1,0 +1,1 @@
+# If names of 2 friends are same: what will be the program in problem 6.
